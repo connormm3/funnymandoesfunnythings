@@ -1,0 +1,11 @@
+{
+    "name": "fardcmm2",
+    "description": "Fastest proxy using only nginx as the backend server",
+    "repository": "https://github.com/connormm3/funnymandoesfunnythings",
+    "logo": "https://raw.githubusercontent.com/binary-person/womginx/master/public/logo.png",
+    "keywords": [
+        "nginx",
+        "docker"
+    ],
+    "stack": "container"
+}
